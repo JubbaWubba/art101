@@ -1,3 +1,20 @@
 #my-portrait {
     width: 200px;
 }
+
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 5px dashed violet;
+  padding: 50px;
+  margin: 20px;
+}
+p {font-family: Copperplate,cursive, fantasy;
+color: white;}
+body {
+  background-color: pink;
+}
+h1 {
+  color: white;
+  font-family: fantasy;
+  font-size: 300%;
