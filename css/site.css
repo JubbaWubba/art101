@@ -10,7 +10,8 @@ div {
   margin: 20px;
 }
 p {font-family: Copperplate,cursive, fantasy;
-color: white;}
+color: white;
+font-size: 110%}
 body {
   background-color: pink;
 }
