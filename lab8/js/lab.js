@@ -43,6 +43,3 @@ console.log("this is the array times 5 array: ", time5)
 console.log("this is array multiplied the prior array by 2 and adds 10: ", times10)
 console.log("this is the array subtracted 30 from the prior array: ", m30)
 console.log("This array used an anon function to return the intial array +1000 and halved: ", equation)
-
-
-console.log("this is the initial array: ", times10)
