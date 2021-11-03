@@ -30,7 +30,7 @@ function buttonpush() {
 
 
   var outputEl = document.getElementById("output");
-  outputEl.innerHTML = "New Name "+ sortedname;
+  outputEl.innerHTML = "New Name: "+ sortedname;
 }
 
 buttonEl = document.addEventListener("click", buttonpush);
